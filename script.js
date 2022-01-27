@@ -7,15 +7,17 @@ timer.addEventListener('secondsUpdated', function(e) {
 
 function losed(){
     let page = document.getElementsByTagName(document);
+    document.page.innerHTML = 'replacement HTML';
 }
 
 function place0(){
     let bomber = Math.floor(Math.random() * 10)
-     if(bomber>5 || bombs>=1){
+     if(bomber>1 || bombs>=1){
         bomber = true;
         console.log(bomber);
         alert("You losed")
-        bomb--;
+        bombs--;
+console.log(bombs);
     }
     else{
         bomber = false;
@@ -24,11 +26,12 @@ function place0(){
 function place1(){
     let bomber = Math.floor(Math.random() * 10)
     
-if(bomber>5 || bombs>=1){
+if(bomber>1 || bombs>=1){
         bomber = true;
         console.log(bomber);
         alert("You losed")
-        bomb--;
+        bombs--;
+console.log(bombs);
     }
     else{
         bomber = false;
@@ -39,11 +42,13 @@ if(bomber>5 || bombs>=1){
 function place2(){
     let bomber = Math.floor(Math.random() * 10)
     
-if(bomber>5 || bombs>=1){
+if(bomber>1 || bombs>=1){
         bomber = true;
         console.log(bomber);
         alert("You losed")
-bomb--;
+        bombs--;
+        console.log(bombs);
+        
     }
     else{
         bomber = false;
@@ -54,11 +59,12 @@ bomb--;
 function place3(){
     let bomber = Math.floor(Math.random() * 10)
     
-if(bomber>5 || bombs>=1){
+if(bomber>1 || bombs>=1){
         bomber = true;
         console.log(bomber);
         alert("You losed")
-bomb--;
+bombs--;
+console.log(bombs);
     }
     else{
         bomber = false;
@@ -69,11 +75,12 @@ bomb--;
 function place4(){
     let bomber = Math.floor(Math.random() * 10)
     
-if(bomber>5 || bombs>=1){
+if(bomber>1 || bombs>=1){
         bomber = true;
         console.log(bomber);
         alert("You losed")
-bomb--;
+bombs--;
+console.log(bombs);
     }
     else{
         bomber = false;
@@ -84,11 +91,12 @@ bomb--;
 function place5(){
     let bomber = Math.floor(Math.random() * 10)
     
-if(bomber>5 || bombs>=1){
+if(bomber>1 || bombs>=1){
         bomber = true;
         console.log(bomber);
         alert("You losed")
-bomb--;
+bombs--;
+console.log(bombs);
     }
     else{
         bomber = false;
@@ -99,11 +107,12 @@ bomb--;
 function place6(){
     let bomber = Math.floor(Math.random() * 10)
     
-if(bomber>5 || bombs>=1){
+if(bomber>1 || bombs>=1){
         bomber = true;
         console.log(bomber);
         alert("You losed")
-bomb--;
+bombs--;
+console.log(bombs);
     }
     else{
         bomber = false;
@@ -114,11 +123,12 @@ bomb--;
 function place7(){
     let bomber = Math.floor(Math.random() * 10)
     
-if(bomber>5 || bombs>=1){
+if(bomber>1 || bombs>=1){
         bomber = true;
         console.log(bomber);
         alert("You losed")
-bomb--;
+bombs--;
+console.log(bombs);
     }
     else{
         bomber = false;
@@ -129,11 +139,12 @@ bomb--;
 function place8(){
     let bomber = Math.floor(Math.random() * 10)
     
-if(bomber>5 || bombs>=1){
+if(bomber>1 || bombs>=1){
         bomber = true;
         console.log(bomber);
         alert("You losed")
-bomb--;
+bombs--;
+console.log(bombs);
     }
     else{
         bomber = false;
@@ -144,11 +155,12 @@ bomb--;
 function place9(){
     let bomber = Math.floor(Math.random() * 10)
     
-if(bomber>5 || bombs>=1){
+if(bomber>1 || bombs>=1){
         bomber = true;
         console.log(bomber);
         alert("You losed")
-bomb--;
+bombs--;
+console.log(bombs);
     }
     else{
         bomber = false;
@@ -159,11 +171,12 @@ bomb--;
 function place10(){
     let bomber = Math.floor(Math.random() * 10)
     
-if(bomber>5 || bombs>=1){
+if(bomber>1 || bombs>=1){
         bomber = true;
         console.log(bomber);
         alert("You losed")
-bomb--;
+bombs--;
+console.log(bombs);
     }
     else{
         bomber = false;
@@ -174,11 +187,12 @@ bomb--;
 function place11(){
     let bomber = Math.floor(Math.random() * 10)
     
-if(bomber>5 || bombs>=1){
+if(bomber>1 || bombs>=1){
         bomber = true;
         console.log(bomber);
         alert("You losed")
-bomb--;
+bombs--;
+console.log(bombs);
     }
     else{
         bomber = false;
@@ -189,11 +203,12 @@ bomb--;
 function place12(){
     let bomber = Math.floor(Math.random() * 10)
     
-if(bomber>5 || bombs>=1){
+if(bomber>1 || bombs>=1){
         bomber = true;
         console.log(bomber);
         alert("You losed")
-bomb--;
+bombs--;
+console.log(bombs);
     }
     else{
         bomber = false;
@@ -204,11 +219,12 @@ bomb--;
 function place13(){
     let bomber = Math.floor(Math.random() * 10)
     
-if(bomber>5 || bombs>=1){
+if(bomber>1 || bombs>=1){
         bomber = true;
         console.log(bomber);
         alert("You losed")
-bomb--;
+bombs--;
+console.log(bombs);
     }
     else{
         bomber = false;
@@ -219,11 +235,12 @@ bomb--;
 function place14(){
     let bomber = Math.floor(Math.random() * 10)
     
-if(bomber>5 || bombs>=1){
+if(bomber>1 || bombs>=1){
         bomber = true;
         console.log(bomber);
         alert("You losed")
-bomb--;
+bombs--;
+console.log(bombs);
     }
     else{
         bomber = false;
@@ -234,11 +251,12 @@ bomb--;
 function place15(){
     let bomber = Math.floor(Math.random() * 10)
     
-if(bomber>5 || bombs>=1){
+if(bomber>1 || bombs>=1){
         bomber = true;
         console.log(bomber);
         alert("You losed")
-bomb--;
+bombs--;
+console.log(bombs);
     }
     else{
         bomber = false;
@@ -249,11 +267,12 @@ bomb--;
 function place16(){
     let bomber = Math.floor(Math.random() * 10)
     
-if(bomber>5 || bombs>=1){
+if(bomber>1 || bombs>=1){
         bomber = true;
         console.log(bomber);
         alert("You losed")
-        bomb--;
+        bombs--;
+console.log(bombs);
     }
     else{
         bomber = false;
@@ -264,11 +283,12 @@ if(bomber>5 || bombs>=1){
 function place17(){
     let bomber = Math.floor(Math.random() * 10)
     
-if(bomber>5 || bombs>=1){
+if(bomber>1 || bombs>=1){
         bomber = true;
         console.log(bomber);
         alert("You losed")
-        bomb--;
+        bombs--;
+console.log(bombs);
     }
     else{
         bomber = false;
@@ -279,11 +299,12 @@ if(bomber>5 || bombs>=1){
 function place18(){
     let bomber = Math.floor(Math.random() * 10)
     
-if(bomber>5 || bombs>=1){
+if(bomber>1 || bombs>=1){
         bomber = true;
         console.log(bomber);
         alert("You losed")
-        bomb--;
+        bombs--;
+console.log(bombs);
     }
     else{
         bomber = false;
@@ -294,11 +315,12 @@ if(bomber>5 || bombs>=1){
 function place19(){
     let bomber = Math.floor(Math.random() * 10)
     
-if(bomber>5 || bombs>=1){
+if(bomber>1 || bombs>=1){
         bomber = true;
         console.log(bomber);
         alert("You losed")
-        bomb--;
+        bombs--;
+console.log(bombs);
     }
     else{
         bomber = false;
@@ -309,11 +331,12 @@ if(bomber>5 || bombs>=1){
 function place20(){
     let bomber = Math.floor(Math.random() * 10)
     
-if(bomber>5 || bombs>=1){
+if(bomber>1 || bombs>=1){
         bomber = true;
         console.log(bomber);
         alert("You losed");
-        bomb--;
+        bombs--;
+console.log(bombs);
     }
     else{
         bomber = false;
